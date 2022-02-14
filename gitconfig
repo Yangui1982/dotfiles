@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jg.vicente@wanadoo.fr
+	name = JeanGuillaume Vicente
